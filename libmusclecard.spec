@@ -11,6 +11,7 @@ Source0:	http://alioth.debian.org/download.php/977/%{name}-%{version}-%{bver}.ta
 # Source0-md5:	7e9a6eee9f4b911529955303766e8c8f
 URL:		http://www.linuxnet.com/middle.html
 BuildRequires:	pcsc-lite-devel >= 1.2.9-0.beta7
+BuildRequires:	pkgconfig
 Requires:	pcsc-lite >= 1.2.9-0.beta7
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
