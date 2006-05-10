@@ -1,13 +1,13 @@
 Summary:	MuscleCard library
 Summary(pl):	Biblioteka MuscleCard
 Name:		libmusclecard
-Version:	1.3.2
+Version:	1.3.3
 Release:	1
 License:	BSD
 Group:		Libraries
 #Source0Download: http://alioth.debian.org/project/showfiles.php?group_id=30105
-Source0:	http://alioth.debian.org/download.php/1511/%{name}-%{version}.tar.gz
-# Source0-md5:	cd7fa0381432c840c2fe97f69780e48a
+Source0:	http://alioth.debian.org/download.php/1579/%{name}-%{version}.tar.gz
+# Source0-md5:	360023ac83d2ef08d9daac87088865f3
 URL:		http://www.linuxnet.com/middle.html
 BuildRequires:	pcsc-lite-devel >= 1.3.0
 BuildRequires:	pkgconfig
