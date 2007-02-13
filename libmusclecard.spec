@@ -1,5 +1,5 @@
 Summary:	MuscleCard library
-Summary(pl.UTF-8):   Biblioteka MuscleCard
+Summary(pl.UTF-8):	Biblioteka MuscleCard
 Name:		libmusclecard
 Version:	1.3.3
 Release:	1
@@ -24,7 +24,7 @@ Biblioteka MuscleCard.
 
 %package devel
 Summary:	Header files for MuscleCard library
-Summary(pl.UTF-8):   Pliki nagłówkowe biblioteki MuscleCard
+Summary(pl.UTF-8):	Pliki nagłówkowe biblioteki MuscleCard
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 Requires:	pcsc-lite-devel >= 1.3.0
@@ -37,7 +37,7 @@ Pliki nagłówkowe biblioteki MuscleCard.
 
 %package static
 Summary:	Static MuscleCard library
-Summary(pl.UTF-8):   Biblioteka statyczna MuscleCard
+Summary(pl.UTF-8):	Biblioteka statyczna MuscleCard
 Group:		Development/Libraries
 Requires:	%{name}-devel = %{version}-%{release}
 
