@@ -6,7 +6,7 @@ Release:	1
 License:	BSD
 Group:		Libraries
 #Source0Download: http://alioth.debian.org/project/showfiles.php?group_id=30105
-Source0:	http://alioth.debian.org/download.php/3024/%{name}-%{version}.tar.gz
+Source0:	http://alioth.debian.org/frs/download.php/3024/%{name}-%{version}.tar.gz
 # Source0-md5:	f8d799b03b810f6c1238063a85a268a1
 URL:		http://www.linuxnet.com/middle.html
 BuildRequires:	pcsc-lite-devel >= 1.3.0
